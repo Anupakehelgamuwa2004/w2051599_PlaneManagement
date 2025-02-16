@@ -1,0 +1,7 @@
+Ticket information:
+Seat: A3
+Price: £200
+Passenger Information:
+Name: d
+Surname: d
+Email: dd

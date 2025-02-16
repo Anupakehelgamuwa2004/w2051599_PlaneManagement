@@ -1,0 +1,7 @@
+Ticket information:
+Seat: A2
+Price: £200
+Passenger Information:
+Name: anupa
+Surname: induwara
+Email: anupainduwara@gmail.com

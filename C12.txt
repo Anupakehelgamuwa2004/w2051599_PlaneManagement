@@ -1,0 +1,7 @@
+Ticket information:
+Seat: C12
+Price: £180
+Passenger Information:
+Name: a
+Surname: a
+Email: a

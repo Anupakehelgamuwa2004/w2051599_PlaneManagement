@@ -1,0 +1,7 @@
+Ticket information:
+Seat: A6
+Price: £150
+Passenger Information:
+Name: a
+Surname: a
+Email: a
